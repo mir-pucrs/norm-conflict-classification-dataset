@@ -4,7 +4,7 @@ This repository contains a manually annotated dataset of conflicting norms class
 
 We defined four types based on the characteristics norm conflict present.
 To better understand our conflict types, consider that a norm is composed of four main elements:
-{>> Add link to our AAMAS paper. <<}
+<!-- Add link to our AAMAS paper. -->
 
 ```
     Party_Name Modal_Verb Norm_Action Condition
