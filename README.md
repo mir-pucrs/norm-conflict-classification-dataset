@@ -2,7 +2,7 @@
 
 This repository contains a manually annotated dataset of conflicting norms classified by conflict types.
 
-We defined four types based on the characteristics norm conflict present.
+We defined four types based on the characteristics presented in norm conflict.
 To better understand our conflict types, consider that a norm is composed of four main elements:
 <!-- Add link to our AAMAS paper. -->
 
