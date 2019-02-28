@@ -1,8 +1,10 @@
 # Norm Conflict Classification Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2566051.svg)](https://doi.org/10.5281/zenodo.2566051)
+
 This repository contains a manually annotated dataset of conflicting norms classified by conflict types.
 
-We defined four types based on the characteristics norm conflict present.
+We defined four types based on the characteristics presented in norm conflict.
 To better understand our conflict types, consider that a norm is composed of four main elements:
 <!-- Add link to our AAMAS paper. -->
 
