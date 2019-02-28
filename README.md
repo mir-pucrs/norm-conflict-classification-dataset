@@ -1,6 +1,6 @@
 # Norm Conflict Classification Dataset
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2566051.svg)](https://doi.org/10.5281/zenodo.2566051)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2580126.svg)](https://doi.org/10.5281/zenodo.2580126)
 
 This repository contains a manually annotated dataset of conflicting norms classified by conflict types.
 
